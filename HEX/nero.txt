@@ -1,0 +1,25 @@
+--- TAVOLOZZA COLORI NERI E DERIVATI (HEX) ---
+
+NERI PURI E PROFONDI
+Nero Assoluto: #000000
+Nero Notte: #0C090A
+Nero Pece: #000508
+Nero Jet: #343434
+
+NERI RIFLESSATI
+Nero Fumo: #738276
+Nero Bluastro: #1B1B1B
+Nero Carbone: #333333
+Nero Onice: #353839
+
+TONI GRIGI MOLTO SCURI (DERIVATI)
+Grigio Antracite: #2F4F4F
+Grigio Grafite: #36454F
+Grigio Ferro: #43464B
+Grigio Ardesia Scuro: #2F4F4F
+
+TONI NATURALI E BRUNITI
+Nero Caffè: #2B1700
+Nero Ebano: #555D50
+Nero Seppia: #3B3C36
+Nero Liquirizia: #1A1110
