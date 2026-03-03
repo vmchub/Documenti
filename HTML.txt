@@ -1,0 +1,51 @@
+=====================================================
+      GUIDA RAPIDA: INIZIARE CON HTML
+=====================================================
+
+---------- 1. COS'È L'HTML? --------------
+HTML sta per HyperText Markup Language. Non è un linguaggio 
+di programmazione (come JavaScript), ma un linguaggio di 
+"marcatura". Serve a dire al browser: "questo è un titolo", 
+"questo è un paragrafo", "questa è un'immagine".
+
+---------- 2. LA STRUTTURA DI BASE (L'Anatomia) -----------
+Ogni file HTML deve avere questa struttura minima:
+
+<!DOCTYPE html>       <-- Dice al browser che è HTML5
+<html>                <-- Il contenitore di tutto
+<head>                <-- Contiene i "dati invisibili" (titolo, info)
+    <title>Titolo</title>
+</head>
+<body>                <-- Tutto quello che vedi nella pagina
+    <h1>Ciao Mondo!</h1>
+</body>
+</html>
+
+-------- 3. I TAG FONDAMENTALI --------------
+I tag sono i "mattoncini" del sito. Quasi tutti hanno un'apertura 
+<tag> e una chiusura </tag>.
+
+- TITOLI: Da <h1> (il più grande) a <h6> (il più piccolo).
+- PARAGRAFI: <p>Testo del paragrafo</p>.
+- LINK: <a href="https://google.it">Clicca qui</a>.
+- IMMAGINI: <img src="foto.jpg" alt="Descrizione"> (non ha chiusura).
+- LISTE: 
+    <ul> (lista puntata)
+        <li>Elemento 1</li>
+    </ul>
+
+--------- 4. GLI ATTRIBUTI -------------
+Sono informazioni extra scritte dentro il tag di apertura.
+Esempio: <p style="color: red;">Testo rosso</p>
+Qui "style" è l'attributo e "color: red;" è il valore.
+
+----- 5. COME CREARE IL TUO PRIMO FILE -------
+1. Apri un editor di testo (Blocco Note, TextEdit o VS Code).
+2. Incolla la struttura del punto 2.
+3. Salva il file con il nome "index.html". 
+   IMPORTANTE: L'estensione deve essere .html, non .txt!
+4. Trascina il file sopra l'icona del tuo browser (Chrome, Safari, etc.).
+
+=====================================================
+      FINE DOCUMENTO - BUON CODING!
+=====================================================
