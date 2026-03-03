@@ -1,0 +1,118 @@
+=====================================================
+      ARCHIVIO COMPLETO COLORI (HEX & NOMI)
+=====================================================
+
+--- TUTTI I ROSSI (RED SPECTRUM) ---
+Red (Puro):           #FF0000
+Indian Red:           #CD5C5C
+Light Coral:          #F08080
+Salmon:               #FA8072
+Dark Salmon:          #E9967A
+Light Salmon:         #FFA07A
+Crimson:              #DC143C
+Fire Brick:           #B22222
+Dark Red:             #8B0000
+Blood Red:            #660000
+Barn Red:             #7C0A02
+Ruby:                 #E0115F
+Scarlet:              #FF2400
+
+--- SFUMATURE DI ROSA E FUCSIA ---
+Pink:                 #FFC0CB
+Light Pink:           #FFB6C1
+Hot Pink:             #FF69B4
+Deep Pink:            #FF1493
+Medium Violet Red:    #C71585
+Pale Violet Red:      #DB7093
+
+--- SFUMATURE DI ARANCIONE ---
+Light Salmon:         #FFA07A
+Coral:                #FF7F50
+Tomato:               #FF6347
+Orange Red:           #FF4500
+Dark Orange:          #FF8C00
+Orange:               #FFA500
+
+--- SFUMATURE DI GIALLO ---
+Gold:                 #FFD700
+Yellow:               #FFFF00
+Light Yellow:         #FFFFE0
+Lemon Chiffon:        #FFFACD
+Light Goldenrod:      #FAFAD2
+Papaya Whip:          #FFEFD5
+Moccasin:             #FFE4B5
+Peach Puff:           #FFDAB9
+Pale Goldenrod:       #EEE8AA
+Khaki:                #F0E68C
+Dark Khaki:           #BDB76B
+
+--- SFUMATURE DI VERDE ---
+Green Yellow:         #ADFF2F
+Chartreuse:           #7FFF00
+Lawn Green:           #7CFC00
+Lime:                 #00FF00
+Lime Green:           #32CD32
+Pale Green:           #98FB98
+Light Green:          #90EE90
+Spring Green:         #00FF7F
+Sea Green:            #2E8B57
+Forest Green:         #228B22
+Green:                #008000
+Dark Green:           #006400
+Olive:                #808000
+Teal:                 #008080
+
+--- SFUMATURE DI BLU E AZZURRO ---
+Aqua / Cyan:          #00FFFF
+Light Cyan:           #E0FFFF
+Pale Turquoise:       #AFEEEE
+Aquamarine:           #7FFFD4
+Turquoise:            #40E0D0
+Steel Blue:           #4682B4
+Sky Blue:             #87CEEB
+Deep Sky Blue:        #00BFFF
+Dodger Blue:          #1E90FF
+Royal Blue:           #4169E1
+Blue:                 #0000FF
+Medium Blue:          #0000CD
+Dark Blue:            #00008B
+Navy:                 #000080
+Midnight Blue:        #191970
+
+--- SFUMATURE DI VIOLA ---
+Lavender:             #E6E6FA
+Thistle:              #D8BFD8
+Plum:                 #DDA0DD
+Violet:               #EE82EE
+Orchid:               #DA70D6
+Fuchsia / Magenta:    #FF00FF
+Medium Orchid:        #BA55D3
+Medium Purple:        #9370DB
+Blue Violet:          #8A2BE2
+Dark Violet:          #9400D3
+Dark Orchid:          #9932CC
+Dark Magenta:         #8B008B
+Purple:               #800080
+Indigo:               #4B0082
+
+--- SFUMATURE DI MARRONE E NEUTRI ---
+Cornsilk:             #FFF8DC
+Blanched Almond:      #FFEBCD
+Bisque:               #FFE4C4
+Navajo White:         #FFDEAD
+Wheat:                #F5DEB3
+Burly Wood:           #DEB887
+Tan:                  #D2B48C
+Rosy Brown:           #BC8F8F
+Sandy Brown:          #F4A460
+Goldenrod:            #DAA520
+Peru:                 #CD853F
+Chocolate:            #D2691E
+Saddle Brown:         #8B4513
+Sienna:               #A0522D
+Brown:                #A52A2A
+Maroon:               #800000
+
+=====================================================
+FINE ARCHIVIO - 2026
+=====================================================
