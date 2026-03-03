@@ -1,0 +1,31 @@
+--- TAVOLOZZA COLORI ROSSI (HEX) ---
+
+ROSSI PURI E VIVACI
+Rosso Standard: #FF0000
+Rosso Peperoncino: #E32636
+Rosso Fuoco: #FF2400
+Rosso Corsa: #CC0000
+
+TONI SCURI E PROFONDI
+Amaranto: #E52B50
+Bordeaux: #800000
+Granata: #660000
+Mattone: #B22222
+
+TONI ARANCIATI E CALDI
+Corallo: #FF7F50
+Pomodoro: #FF6347
+Vermiglione: #E34234
+Cinabro: #E44D2E
+
+TONI ROSATI E DELICATI
+Salmone Scuro: #E9967A
+Rosso Indiano: #CD5C5C
+Cremisi: #DC143C
+
+=====================================================
+ISTRUZIONI:
+Per usare questi colori nel tuo file HTML, cerca 
+la riga "background-color" o "color" e sostituisci 
+il valore dopo il cancelletto (#).
+=====================================================
