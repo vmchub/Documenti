@@ -1,0 +1,8 @@
+=====================================================
+ISTRUZIONI PER HEX:
+
+Per usare questi colori nel tuo file HTML, cerca 
+la riga "background-color" o "color" e sostituisci 
+il valore dopo il cancelletto (#).
+
+=====================================================
