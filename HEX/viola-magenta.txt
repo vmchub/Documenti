@@ -1,0 +1,19 @@
+--- TAVOLOZZA COLORI VIOLA E MAGENTA (HEX) ---
+
+VIOLA E PORPORA
+Viola Puro: #800080
+Porpora: #A020F0
+Viola Reale: #7851A9
+Indaco: #4B0082
+
+TONI CHIARI E LILLA
+Lilla: #C8A2C8
+Lavanda: #E6E6FA
+Malva: #E0B0FF
+Glicine: #C9A0DC
+
+MAGENTA E ROSA ACCESI
+Magenta: #FF00FF
+Fucsia: #FF00FF
+Rosa Shocking: #FC0FC0
+Prugna: #8E4585
