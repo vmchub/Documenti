@@ -1,0 +1,4 @@
+In questa cartella assets trovi immagini per:
+
+- Store (Visa, Mastercard, PayPal e Google Pay)
+- Accesso personalizzato per Discord (Immagine discord)
