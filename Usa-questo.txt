@@ -1,0 +1,116 @@
+/* Modifica quello che vuoi di questo file nel tuo repositories! */
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il Mio Documentario - Progetto di Game</title>
+    
+    <style>
+        /* --- MODIFICA I COLORI QUI SOTTO --- */
+        :root {
+            --colore-sfondo: #1a1a1a;    /* Sfondo scuro moderno */
+            --colore-testo: #f0f0f0;     /* Testo chiaro */
+            --colore-accento: #e74c3c;   /* Rosso per i dettagli e i bottoni */
+            --colore-card: #2d2d2d;      /* Colore delle sezioni */
+        }
+
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: var(--colore-sfondo);
+            color: var(--colore-testo);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://via.placeholder.com/1920x1080');
+            background-size: cover;
+            height: 60vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            border-bottom: 5px solid var(--colore-accento);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .capitolo {
+            background-color: var(--colore-card);
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            border-left: 5px solid var(--colore-accento);
+        }
+
+        h1 { font-size: 3rem; margin-bottom: 10px; }
+        h2 { color: var(--colore-accento); }
+
+        .btn-interattivo {
+            background-color: var(--colore-accento);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+
+        .btn-interattivo:hover { transform: scale(1.05); }
+
+        footer { text-align: center; padding: 40px; font-size: 0.9rem; opacity: 0.7; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>TITOLO DEL DOCUMENTARIO</h1>
+        <p>Una storia creata da Game</p>
+    </header>
+
+    <div class="container">
+        
+        <section class="capitolo">
+            <h2>01. L'Inizio</h2>
+            <p>Scrivi qui la introduzione del tuo documentario. Puoi spiegare di cosa tratta la tua ricerca o il tuo progetto.</p>
+        </section>
+
+        <section class="capitolo">
+            <h2>02. Sviluppo e Scoperte</h2>
+            <p>Qui puoi aggiungere dettagli più approfonditi. L'HTML permette di organizzare tutto in modo pulito.</p>
+            
+            <button class="btn-interattivo" onclick="mostraNota()">Sblocca contenuto extra</button>
+            <p id="nota-segreta" style="display:none; margin-top:15px; font-style: italic;">
+                Complimenti! Hai trovato un segreto nel codice di questo documentario. 🎬
+            </p>
+        </section>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 - Creato con GitHub Pages da Game</p>
+    </footer>
+
+    <script>
+        // FUNZIONE PER IL BOTTONE
+        function mostraNota() {
+            const nota = document.getElementById('nota-segreta');
+            if (nota.style.display === "none") {
+                nota.style.display = "block";
+            } else {
+                nota.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+</html>
