@@ -1,0 +1,19 @@
+--- TAVOLOZZA COLORI VERDI (HEX) ---
+
+VERDI PURI E VIVACI
+Verde Standard: #00FF00
+Verde Prato: #7CFC00
+Verde Lime: #32CD32
+Verde Smeraldo: #50C878
+
+TONI SCURI E BOSCHIVI
+Verde Bosco: #228B22
+Verde Scuro: #006400
+Verde Pino: #01796F
+Verde Oliva: #808000
+
+TONI ACQUATICI E TENUI
+Verde Acqua: #66FFCD
+Verde Menta: #98FF98
+Verde Salvia: #899499
+Verde Mare: #2E8B57
