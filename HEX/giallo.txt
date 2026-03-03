@@ -1,0 +1,19 @@
+--- TAVOLOZZA COLORI GIALLI E ARANCI (HEX) ---
+
+GIALLI BRILLANTI
+Giallo Puro: #FFFF00
+Giallo Limone: #FFF700
+Giallo Canarino: #FFEF00
+Giallo Oro: #FFD700
+
+TONI CALDI E SPEZIATI
+Giallo Zafferano: #F4C430
+Giallo Senape: #FFDB58
+Ambra: #FFBF00
+Miele: #EBA937
+
+ARANCI DERIVATI
+Arancione Puro: #FFA500
+Arancio Mandarino: #FF8800
+Arancio Bruciato: #CC5500
+Tangerine: #F28500
