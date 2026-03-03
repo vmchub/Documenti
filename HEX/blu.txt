@@ -1,0 +1,30 @@
+--- TAVOLOZZA COLORI BLU (HEX) ---
+
+BLU PURI E VIVACI
+Blu Standard (Puro): #0000FF
+Blu Elettrico: #7DF9FF
+Blu Reale: #4169E1
+Oltremare: #120A8F
+
+TONI SCURI E NOTTURNI
+Blu Notte: #191970
+Blu Marina (Navy): #000080
+Blu Mezzanotte: #191970
+Blu Cobalto: #0047AB
+
+TONI AZZURRI E CHIARI
+Azzurro Cielo: #87CEEB
+Celeste: #B2FFFF
+Azzurro Polvere: #B0E0E6
+Blu Fiordaliso: #6495ED
+
+TONI ACQUATICI E VERDASTRI
+Ciano (Aqua): #00FFFF
+Turchese: #40E0D0
+Blu Ottanio: #005A6E
+Verde Acqua: #20B2AA
+
+TONI POLVEROSI E DESATURATI
+Blu Acciaio: #4682B4
+Blu Ardesia: #708090
+Blu Cadillac: #5F9EA0
