@@ -1,0 +1,19 @@
+--- TAVOLOZZA COLORI MARRONI E BEIGE (HEX) ---
+
+MARRONI PROFONDI
+Marrone Standard: #8B4513
+Cioccolato: #D2691E
+Sella: #8B4513
+Testa di Moro: #3D2B1F
+
+TONI TERROSI E CALDI
+Terra di Siena: #A0522D
+Mone: #634721
+Caffè: #6F4E37
+Bronzo: #CD7F32
+
+TONI CHIARI E NEUTRI
+Beige: #F5F5DC
+Sabbia: #C2B280
+Cachi: #F0E68C
+Crema: #FFFDD0
