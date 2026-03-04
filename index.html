@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il Mio Download Center</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f4f4f9;
+            padding: 50px;
+        }
+
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            margin: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: transform 0.2s, background-color 0.2s;
+            cursor: pointer;
+        }
+
+        /* Colore pulsante Scarica Icone */
+        .btn-download {
+            background-color: #007bff;
+        }
+
+        .btn-download:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+
+        /* Colore altri pulsanti */
+        .btn-info {
+            background-color: #6c757d;
+        }
+
+        .btn-info:hover {
+            background-color: #495057;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Benvenuto nel mio sito</h1>
+        <p>Clicca i pulsanti qui sotto per scaricare le risorse:</p>
+
+        <a href="icone.zip" download="assets" class="btn btn-download">
+            Scarica Icone
+        </a>
+      
+        <a href="icone.zip" download="HEX" class="btn btn-download">
+            Scarica Colori Hex
+        </a>
+
+        <a href="#" class="btn btn-info">Leggi Info</a>
+        <a href="contatti.html" class="btn btn-info">Contattami</a>
+    </div>
+
+</body>
+</html>
